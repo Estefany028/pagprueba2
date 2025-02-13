@@ -1,0 +1,4 @@
+
+ul{display: flex;}
+li{list-style-type: none; display: inline-block;}
+footer{text-align: center; color: black; background-color: gray;}
